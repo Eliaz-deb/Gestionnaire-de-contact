@@ -17,7 +17,7 @@ Ouvrez votre terminal dans le dossier du projet et tapez les commandes suivantes
 
 ```bash
 # Compiler le programme
-gcc main.c -o contact_manager
+gcc contact.c -o contact_manager
 
 # Exécuter le programme
 ./contact_manager
